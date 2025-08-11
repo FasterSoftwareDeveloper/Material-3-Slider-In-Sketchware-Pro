@@ -1,6 +1,15 @@
 # Material 3 Slider in Sketchware Pro
 
+**Watch the Video:**
+
+You can see a full demonstration of all the features in this project by watching my YouTube video:
+
+[![Video Thumbnail](https://raw.githubusercontent.com/FasterSoftwareDeveloper/Material-3-Slider-In-Sketchware-Pro/refs/heads/main/20250811_170755.png)](https://www.youtube.com/watch?v=PNcKsjCicjU)
+
+---
+
 This is a free project showcasing various implementations of Material 3 Sliders within Sketchware Pro. It provides a wide range of examples, from simple sliders to more advanced configurations.
+------
 
 ### Features:
 
@@ -21,14 +30,6 @@ This is a free project showcasing various implementations of Material 3 Sliders 
 This project includes a decimal format that may cause the app to crash if your mobile device's language is set to anything other than English. This is due to how different languages handle decimal separators (e.g., using a comma "," instead of a period ".").
 
 **To prevent the app from crashing, please ensure your mobile device's language is set to English before running this project.**
-
----
-
-**Watch the Video:**
-
-You can see a full demonstration of all the features in this project by watching my YouTube video:
-
-[![Video Thumbnail](https://raw.githubusercontent.com/FasterSoftwareDeveloper/Material-3-Slider-In-Sketchware-Pro/refs/heads/main/20250811_170755.png)](https://www.youtube.com/watch?v=PNcKsjCicjU)
 
 ---
 
