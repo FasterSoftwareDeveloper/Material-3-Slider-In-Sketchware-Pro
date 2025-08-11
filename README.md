@@ -25,7 +25,7 @@ This is a free project showcasing various implementations of Material 3 Sliders 
 
 ---
 
-⚠️ **Important Warning: Language Compatibility**
+### ⚠️ **Important Warning: Language Compatibility**
 
 This project includes a decimal format that may cause the app to crash if your mobile device's language is set to anything other than English. This is due to how different languages handle decimal separators (e.g., using a comma "," instead of a period ".").
 
