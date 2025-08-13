@@ -40,9 +40,13 @@ This project includes a decimal format that may cause the app to crash if your m
 3.  Study the different slider implementations to learn how to create your own.
 4.  You can freely use and modify this project for your own needs.
 
-**License:**
+## License
 
-This project is provided for free and is open for public use.
+- **Open & Free (No Restrictions):**  
+  This project is released as **CC0 1.0 Universal**. You are free to use, modify, and share it for any purpose, including commercial projects—no attribution required, no restrictions.
+
+- **Third-Party Libraries:**  
+  This project may include third-party libraries. Each library is subject to its own license. Please review their licenses if you plan to use them.
 
 **Credit:**
 
